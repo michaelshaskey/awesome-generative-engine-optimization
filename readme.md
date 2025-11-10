@@ -197,6 +197,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - **[llms.txt Directory](https://directory.llmstxt.cloud/)** - Growing list of 100+ implementations
 - **[What Is llms.txt?](https://ahrefs.com/blog/what-is-llms-txt/)** - Ahrefs implementation guide
 - **[LLMs.txt Technical Deep Dive](https://towardsdatascience.com/llms-txt-414d5121bcb3/)** - Protocol analysis
+- **[LLMSDB](https://llmsdb.com)** - Directory of llms.txt files
 
 ### AI Crawlers
 
